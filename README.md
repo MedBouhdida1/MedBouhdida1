@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Ask me about Angular, Asp.net Core, Spring Boot, Docker ...<br>📚 I am currently pursuing my studies at University Sesame.<br>🎯 Goals: Learning all about Web development and Devops</p>
+<p align="left">📚 I am currently pursuing my studies at University Sesame.<br>✨ Ask me about Angular, Asp.net Core, Spring Boot, Docker ...<br>🎯 Goals: Learning all about Web development and Devops</p>
 
 ###
 
