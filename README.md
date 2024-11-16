@@ -1,6 +1,9 @@
-# 💫 About Me:
-🌐 Full Stack Engineer<br>🎓 Graduate of University Sesame<br>✨ I specialize in Angular, ASP.NET Core, Spring Boot, and Docker. Feel free to ask me anything!<br>🎯 Goals: Mastering Web Development and DevOps.
-
+# 💫 Hi, I'm Mohamed!
+🎓 **Graduate of University Sesame**<br>
+💻 **Full Stack Engineer** | Passionate about building scalable web applications and exploring new technologies.<br>
+🌟 **Skills**: Angular, ASP.NET Core, Spring Boot, Docker, JavaScript, TypeScript, SQL<br>
+🚀 **Interests**: Web Development, DevOps, Cloud Computing<br>
+💡 **Fun Fact**: I'm always on the lookout for new challenges and opportunities to collaborate!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamedbouhdida/) 
@@ -15,7 +18,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MedBouhdida1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
